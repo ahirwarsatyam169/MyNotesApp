@@ -25,7 +25,7 @@ html,body{
 }
 .container h1{
     padding: 10px;
-    margin-left: 25px;
+    margin-left: 0px;
     color: rgba(255, 255, 255, 0.753);
     font-weight: 800;
     /* border: 1px solid white; */
@@ -104,3 +104,4 @@ html,body{
     
 
 }
+
