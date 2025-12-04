@@ -81,6 +81,13 @@ html,body{
     }
     
 }
+@media (max-width: 600px){
+    .container{
+        grid-template-columns: 1fr;
+        margin-top: 60px;
+    }
+    
+}
 
 .container button:hover{
     background-color: rgb(95, 31, 154);
@@ -95,4 +102,5 @@ html,body{
     box-shadow: 0 0 18px;
     border: 2px solid purple;
     
+
 }
