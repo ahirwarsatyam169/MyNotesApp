@@ -75,6 +75,9 @@ html,body{
     border-radius: 5px;
     padding: 2px;
 }
+img{
+    cursor: pointer;
+}
 @media (max-width: 600px){
     .notes-container{
         grid-template-columns: 1fr;
@@ -104,4 +107,5 @@ html,body{
     
 
 }
+
 
